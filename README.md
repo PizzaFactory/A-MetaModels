@@ -3,6 +3,8 @@
 **重要なお知らせ: これはオープンソース製品ではありません。**
 
 # A-MetaModels
+
+[![Join the chat at https://gitter.im/PizzaFactory/A-MetaModels](https://badges.gitter.im/PizzaFactory/A-MetaModels.svg)](https://gitter.im/PizzaFactory/A-MetaModels?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 AUTOSAR MetaModels
 
 FAQ
